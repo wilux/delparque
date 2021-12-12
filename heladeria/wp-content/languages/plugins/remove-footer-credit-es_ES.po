@@ -1,0 +1,154 @@
+# Translation of Plugins - Remove Footer Credit - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Remove Footer Credit - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-05 12:07:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Remove Footer Credit - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://wpchill.com"
+msgstr "https://wpchill.com"
+
+#. Author of the plugin
+msgid "WPChill"
+msgstr "WPChill"
+
+#. Translators: Welcome Screen Description.
+#: remove-footer-credit.php:177
+msgid "Remove or replace footer credits (or any text or HTML in page) before page is rendered. With this plugin there is no need to modify code such as footer.php which if done incorrectly can cause your site to break or new theme updates will stomp over your changes requiring you to remove footer credits on each update."
+msgstr "Elimina o reemplaza las acreditaciones del pie de página (o cualquier texto o código HTML de la página) antes de que se muestre la página. Con este plugin no hay necesidad de modificar el código, como en el archivo «footer.php», que, si se hace de forma incorrecta, puede causar que tu sitio se rompa o que las nuevas actualizaciones de los temas machaquen tus cambios, haciendo necesario que elimines las acreditaciones del pie de página después de cada actualización."
+
+#: remove-footer-credit.php:164
+msgid "Settings Saved"
+msgstr "Ajustes guardados"
+
+#: remove-footer-credit.php:120
+msgid "MachoThemes.com"
+msgstr "MachoThemes.com"
+
+#: remove-footer-credit.php:120
+msgid "Get WordPress help, plugins, themes and tips at "
+msgstr "Obtén ayuda para WordPress, plugins, temas y consejos en "
+
+#: remove-footer-credit.php:63
+msgid "Other Great Plugins"
+msgstr "Otros excelentes plugins"
+
+#: remove-footer-credit.php:59
+msgid "Settings"
+msgstr "Ajustes"
+
+#: sections/plugins.php:76
+msgid "Find out more"
+msgstr "Más información"
+
+#: sections/plugins.php:53
+msgid "Activate"
+msgstr "Activar"
+
+#: sections/plugins.php:49 sections/plugins.php:74
+msgid "Activated"
+msgstr "Activado"
+
+#: sections/plugins.php:40
+msgid "Install & Activate"
+msgstr "Instalar y activar"
+
+#: sections/plugins.php:12
+msgid "Simple Author Box adds a responsive author box at the end of your posts, showing the author name, author gravatar and author description. It also adds over 30 social profile fields on WordPress user profile screen, allowing to display the author social icons."
+msgstr "Simple Author Box añade una simple caja de autor al final de tus entradas, mostrando el nombre del autor, su Gravatar y su descripción. También añade más de 30 campos de perfiles sociales en la pantalla del perfil de usuario de WordPress, permitiendo mostrar los iconos sociales del autor."
+
+#: sections/plugins.php:11
+msgid "Simple Author Box"
+msgstr "Simple Author Box"
+
+#: sections/plugins.php:6
+msgid "Modula is currently the easiest and fastest photo gallery plugin for WordPress. With its wizard you are able to build an image gallery in a few seconds, unlike many other WordPress gallery plugins."
+msgstr "En este momento, Modula es el plugin de galería de fotos más fácil y rápido para WordPress. Con su asistente, podrás crear una galería de imágenes en unos pocos segundos, a diferencia de muchos otros plugins de galería para WordPress."
+
+#: sections/plugins.php:5
+msgid "Modula - A WordPress Gallery Plugin"
+msgstr "Modula - Un plugin de galería para WordPress"
+
+#: sections/plugin-info.php:6
+msgid "to view instructions on how to use this plugin."
+msgstr "para ver las instrucciones sobre cómo usar este plugin."
+
+#: sections/plugin-info.php:6
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+#: sections/plugin-info.php:5
+msgid "Learn"
+msgstr "Aprender"
+
+#: sections/plugin-info.php:3
+msgid "here"
+msgstr "aquí"
+
+#: sections/plugin-info.php:3
+msgid "Need help using this plugin or want to report a bug? Contact me"
+msgstr "¿Necesitas ayuda para usar este plugin o quieres informar de un fallo? Contacta conmigo"
+
+#: sections/plugin-info.php:2 remove-footer-credit.php:67
+msgid "Get Help"
+msgstr "Obtener ayuda"
+
+#: sections/settings.php:54
+msgid "Get WordPress help, plugins, themes and tips at"
+msgstr "Obtén ayuda para WordPress, plugins, temas y consejos en"
+
+#: sections/settings.php:53
+msgid "The text below will appear at the bottom of the selected post/page."
+msgstr "El siguiente texto aparecerá al final de la entrada/página seleccionada."
+
+#: sections/settings.php:45
+msgid "-- Pages --"
+msgstr "-- Páginas --"
+
+#: sections/settings.php:39
+msgid "-- Posts --"
+msgstr "-- Entradas --"
+
+#: sections/settings.php:36
+msgid "Select a post/page:"
+msgstr "Selecciona una entrada/página:"
+
+#: sections/settings.php:14
+msgid "Yes, I will support you!"
+msgstr "¡Sí, te apoyaré!"
+
+#: sections/settings.php:13
+msgid "No, thanks."
+msgstr "No, gracias."
+
+#: sections/settings.php:12
+msgid "Help keep this plugin free by providing one link back at the bottom of one of your posts/pages."
+msgstr "Ayuda a mantener este plugin gratuito proporcionándole un enlace en la parte inferior de una de tus entradas/páginas."
+
+#: sections/settings.php:11
+msgid "Step 3: Please support my work and spread the word (optional)"
+msgstr "Paso 3: Por favor, apoya mi trabajo y haz correr la voz (opcional)"
+
+#: sections/settings.php:9
+msgid "Step 2: Enter your own footer credit (one per line)"
+msgstr "Paso 2: Introduce tu propia acreditación para el pie de página (una por línea)"
+
+#: sections/settings.php:7
+msgid "Step 1: Enter text/HTML to remove (one per line)"
+msgstr "Paso 1: Introduce el texto/HTML a eliminar (uno por línea)"
+
+#. Description of the plugin
+msgid "A simple plugin to remove footer credits"
+msgstr "Un sencillo plugin para eliminar las acreditaciones del pie de página"
+
+#. Plugin Name of the plugin
+#: remove-footer-credit.php:129 remove-footer-credit.php:174
+msgid "Remove Footer Credit"
+msgstr "Remove Footer Credit"

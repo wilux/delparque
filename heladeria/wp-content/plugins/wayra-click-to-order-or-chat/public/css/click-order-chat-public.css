@@ -1,0 +1,93 @@
+ /* Wayra Click Order/Chat Floating Button */
+ .wayra-coc-floating-button {
+    position: fixed;
+    bottom: 20px;
+    z-index: 9999;
+    text-decoration: none;
+    right: 20px;
+	display: flex;
+	justify-content: center;
+    align-items: center;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+.wayra-coc-floating-style2 {
+    width: 60px;
+    height: 60px;
+    bottom: 20px;
+    background-color: #25D366;
+    border-radius: 50px;
+    box-shadow: 0 8px 25px -5px rgba(45,62,79,.3);
+}
+
+.wayra-coc-floating-style2:hover {
+	background-color: #0da245 !important; 
+}
+
+.wayra-coc-floating-button:hover .wayra-coc-floating-label {
+    visibility: visible;
+    opacity: 1;
+}
+
+.wayra-coc-floating-label {
+    right: 85px;
+    position: fixed;
+    display: table;
+    visibility: hidden;
+    z-index: 9999;
+    text-align: center;
+
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	transition: all 0.2s;
+}
+
+.wayra-coc-floating-label-text {
+    color: #43474e;
+    background: #f5f7f9;
+    display: inline-block;
+    padding: 7px;
+    border-radius: 3px;
+    font-size: 14px;
+    bottom: 15px;
+}
+
+@media (max-width: 768px) {
+    .hide-on-mobile {
+        display: none !important;
+    }
+}
+
+/* Wayra Click Order/Chat Button */
+.product_meta .wayra-coc-button {
+    font-size: 1.16em !important;
+}
+.wayra-coc-button {
+    color: white !important;
+	background-color: #25D366 !important;
+	-webkit-transition: all 0.2s;
+	-moz-transition: all 0.2s;
+	transition: all 0.2s;
+    text-decoration: none !important;
+    margin: 10px 0 20px 0 !important;
+    text-align: center !important;
+}
+
+.wayra-coc-button:before,
+.wayra-coc-button:after {
+    display: none !important;
+}
+
+.wayra-coc-button:hover {
+	background-color: #0da245 !important; 
+}
+
+.wayra-coc-button svg {
+	width: 1em;
+	fill: white;
+    margin-right: 5px;
+    vertical-align: middle;
+    margin-bottom: 2px !important;
+}

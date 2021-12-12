@@ -1,0 +1,362 @@
+# Translation of Plugins - WooCommerce Product Table Lite - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WooCommerce Product Table Lite - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 10:11:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WooCommerce Product Table Lite - Development (trunk)\n"
+
+#: templates/sort_by.php:34
+msgid "Relevance"
+msgstr "Relevancia"
+
+#: templates/form-loading-screen.php:19
+msgid "Loading"
+msgstr "Cargando"
+
+#: main.php:918
+msgid "characters remaining"
+msgstr "caracteres restantes"
+
+#: main.php:917
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#. Author of the plugin
+msgid "WC Product Table"
+msgstr "WC Product Table"
+
+#: editor/editor.php:28 main.php:2467
+msgid "[product_table id=\""
+msgstr "[product_table id=\""
+
+#: editor/settings.php:60 editor/editor.php:300
+msgid "View enhancements"
+msgstr "Ver mejoras"
+
+#: editor/settings.php:59 editor/editor.php:299
+msgid "WCPT PRO is ready for your shop! Build better tables today!"
+msgstr "¡WCPT PRO está listo para tu tienda! ¡Crea mejores tablas hoy!"
+
+#: main.php:36
+msgid "Please deactivate WCPT Lite before activating WCPT PRO to avoid conflict errors."
+msgstr "Por favor, para evitar conflictos, desactiva WCPT Lite antes de activar WCPT PRO."
+
+#: main.php:516
+msgid "How to add WooCommerce products"
+msgstr "Cómo añadir productos WooCommerce"
+
+#: main.php:515
+msgid "WooCommerce Product Table (WCPT) could not find a single 'published' WooCommerce product on your site. WCPT cannot dispaly any products in tables if you do not have any published products on your site. See:"
+msgstr "WooCommerce Product Table (WCPT) no ha podido encontrar un solo producto WooCommerce «publicado» en tu sitio. WCPT no puede mostrar ningún producto en tablas si no tienes ningún producto publicado en el sitio. Ver:"
+
+#: main.php:497
+msgid "WooCommerce Product Table requires at least WooCommerce 3.4.4. Please update your WooCommerce version to avoid incompatibility issues and unexpected behaviour."
+msgstr "WooCommerce Product Table necesita, al menos, WooCommerce 3.4.4. Por favor, actualiza tu versión de WooCommerce para evitar problemas de incompatibilidad y comportamientos inesperados."
+
+#: main.php:464
+msgid "WooCommerce Product Table requires at least WordPress 4.9.0. Please update your WordPress version to avoid incompatibility issues and unexpected behaviour."
+msgstr "La tabla de productos WooCommerce necesita, al menos, WordPress 4.9.0. Por favor, actualiza tu versión de WordPress para evitar problemas de incompatibilidad y comportamientos inesperados."
+
+#: main.php:450
+msgid "WooCommerce Product Table requires at least PHP 5.4.0. Please request you webhost to update your PHP version or run the plugin on another server to avoid incompatibility issues and unexpected behaviour."
+msgstr "La tabla de productos WooCommerce necesita, al menos, PHP 5.4.0. Por favor, pide a tu alojamiento que actualice tu versión PHP o ejecuta el plugin en otro servidor para evitar problemas de incompatibilidad y comportamientos inesperados."
+
+#: templates/modals.php:52
+msgid "Apply"
+msgstr "Aplicar"
+
+#: templates/modals.php:49
+msgid "Reset"
+msgstr "Restablecer"
+
+#: templates/modals.php:45
+msgid "Sort"
+msgstr "Ordenar"
+
+#: templates/modals.php:42
+msgid "Filters"
+msgstr "Filtros"
+
+#: templates/cart-widget.php:115
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: templates/cart-widget.php:84
+msgid "Item"
+msgstr "Artículo"
+
+#: templates/cart-widget.php:82
+msgid "Items"
+msgstr "Artículos"
+
+#: editor/partials/query.php:84
+msgid "Random"
+msgstr "Aleatorio"
+
+#: editor/settings.php:67 editor/editor.php:307
+msgid "Do you like WCPT? Please consider supporting with a 5 star review here: "
+msgstr "¿Te gusta WCPT? Por favor, considera apoyarnos con una valoración de 5 estrellas aquí:"
+
+#: main.php:1255
+msgid "WooCommerce Product Table Notice"
+msgstr "Aviso de WooCommerce Product Table"
+
+#: main.php:1250
+msgid "While you have created at least one column in the Laptop Columns section for this table, it seems you have not created any elements in the columns. Please create at least one element in at least one Laptop Column for this table, then save your table settings and reload this page to see your table."
+msgstr "Aunque has creado al menos una columna en la sección Columnas de ordenador para esta tabla, parece que no has creado ningún elemento en las columnas. Por favor, crea al menos un elemento en una columna de ordenador para esta tabla, luego guarda los ajustes de tu tabla y vuelve a cargar esta página para ver tu tabla."
+
+#: main.php:1241
+msgid ""
+"It appears you have not set any Laptop Columns for your product table. Therefore, without any columns, your table does not have any content to display. Please follow these steps:\n"
+"                    <ol>\n"
+"                      <li>Go to the table editor > Columns tab > Laptop Columns section and use the 'Add a Column' button to add at least one column.</li>\n"
+"                      <li>Within this column that you have added, either in the 'Heading' or 'Cell template' please add at least one element using the '+ Add Element' button. Otherwise this column will simply be empty.</li>\n"
+"                      <li>Save your table settings after following the above two steps, and then reload this page.</li>\n"
+"                    </ol>\n"
+"                    If you have created at least one Laptop Column, with at least one element in it, and your table is saved, this warning message will be removed and your table will be presented. Please visit the <a href=\"https://wcproducttable.com/tutorials\" target=\"_blank\">plugin's  tutorials</a> for a clear guide on how to use this plugin and get the most out of it."
+msgstr ""
+"Parece que no has establecido ninguna columna de ordenador para tu tabla de productos. Por lo tanto, sin ninguna columna, la tabla no tiene ningún contenido para mostrar. Por favor, sigue estos pasos:<ol>\n"
+"                      <li>Ve al editor de tablas > Pestaña Columnas > Sección Columnas de ordenador y usa el botón «Añadir una columna» para añadir al menos una columna.</li>\n"
+"                      <li>Dentro de esta columna que has añadido, ya sea en «Encabezado» o en «Plantilla de celda», añade al menos un elemento usando el botón «+ Añadir elemento». De lo contrario, esta columna simplemente estará vacía.</li>\n"
+"                      <li>Guarda los ajustes de tu tabla después de seguir los dos pasos anteriores y, a continuación, vuelve a cargar esta página.</li>\n"
+"                    </ol>Si has creado al menos una columna de ordenador, con al menos un elemento, y se guarda la tabla, se eliminará este mensaje de advertencia y se presentará tu tabla. Por favor, visita los <a href=\"https://wcproducttable.com/tutorials\" target=\"_blank\">tutoriales del plugin</a> para obtener una guía clara sobre cómo utilizar este plugin y sacar el máximo provecho de él."
+
+#: editor/partials/query.php:79
+msgid "Menu order"
+msgstr "Orden del menú"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/wcproducttable/"
+msgstr "https://profiles.wordpress.org/wcproducttable/"
+
+#. Description of the plugin
+msgid "Display your WooCommerce product catalog in beautiful responsive tables."
+msgstr "Muestra el catálogo de productos WooCommerce en bonitas tablas adaptables."
+
+#. Plugin URI of the plugin
+msgid "https://wcproducttable.com/"
+msgstr "https://wcproducttable.com/"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Product Table Lite"
+msgstr "WooCommerce Product Table Lite"
+
+#: templates/sort_by.php:101 templates/sort_by.php:143
+msgid "Sort by "
+msgstr "Ordenar por"
+
+#: templates/result_count.php:19
+msgid "No results found"
+msgstr "No se encontraron resultados"
+
+#: templates/result_count.php:15
+msgid "Showing the single result"
+msgstr "Mostrando el único resultado"
+
+#: templates/result_count.php:11
+msgid "Showing all [displayed_results] results"
+msgstr "Mostrando todos los [displayed_results] resultados"
+
+#: templates/result_count.php:7
+msgid "Showing [first_result] - [last_result] of [total_results] results"
+msgstr "Mostrando [first_result] - [last_result] de [total_results] resultados"
+
+#: templates/quantity.php:85
+msgid "%s quantity"
+msgstr "Cantidad %s"
+
+#: templates/quantity.php:81
+msgctxt "Product quantity input tooltip"
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: templates/price_filter.php:185
+msgid "Show any"
+msgstr "Mostrar cualquiera"
+
+#: templates/price_filter.php:47
+msgid "Price range"
+msgstr "Rango de precio"
+
+#: templates/category_filter.php:26 templates/category_filter.php:225
+#: templates/category_filter.php:230 templates/category_filter.php:234
+msgid "Category"
+msgstr "Categoría"
+
+#: main.php:1234
+msgid "No product table settings were found for this id. Please try clicking the \"Save settings\" button at the bottom of the table editor page to save your table settings. If you have already done this and the issue still persists, the cause may be incompatibility with another script on your site. In that case you should contact the plugin developer <a href=\"https://wcproducttable.com/support/\">here</a> for prompt support."
+msgstr "No se ha encontrado ningún ajuste de tabla de productos para este ID. Por favor, intenta hacer clic en el botón «Guardar los ajustes» en la parte inferior de la página del editor de tablas para guardar los ajustes de tu tabla. Si ya lo has hecho y el problema persiste, la causa puede ser la incompatibilidad con otro script en tu sitio. En ese caso, debes ponerte en contacto con el desarrollador del plugin <a href=\"https://wcproducttable.com/support/\">aquí</a> para obtener asistencia rápida."
+
+#: main.php:689
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr "Lo siento, este producto no está disponible. Por favor, elige otra combinación."
+
+#: main.php:688
+msgid "Please select some product options before adding this product to your cart."
+msgstr "Elige las opciones del producto antes de añadir este producto a tu carrito."
+
+#: main.php:687
+msgid "Sorry, no products matched your selection. Please choose a different combination."
+msgstr "Lo siento, no hay productos que coincidan con tu selección. Por favor, elige otra combinación."
+
+#: main.php:477
+msgid "Install now?"
+msgstr "¿Instalar ahora?"
+
+#: main.php:476
+msgid "WooCommerce Product Table needs the WooCommerce plugin to be installed and activated on your site!"
+msgstr "¡WooCommerce Product Table necesita que el plugin WooCommerce esté instalado y activado en tu sitio!"
+
+#: main.php:152
+msgid "Easily display your WooCommerce products in responsive tables."
+msgstr "Muestra fácilmente tus productos WooCommerce en tablas adaptables."
+
+#: main.php:150
+msgid "Add New Product Table"
+msgstr "Añadir una nueva tabla de productos"
+
+#: main.php:148
+msgid "Product Table"
+msgstr "Tabla de productos"
+
+#: main.php:147 main.php:149
+msgid "Product Tables"
+msgstr "Tabla de productos"
+
+#: editor/settings.php:9
+msgid "WCPT Global Settings"
+msgstr "Ajustes globales de WCPT"
+
+#: editor/partials/style.php:85
+msgid "Enter custom CSS here..."
+msgstr "Introduce aquí tu CSS personalizado..."
+
+#: editor/partials/query.php:179
+msgid "Additional query args"
+msgstr "Argumentos adicionales de la consulta"
+
+#: templates/search.php:57 templates/search.php:67
+msgid "Search"
+msgstr "Buscar"
+
+#: editor/partials/query.php:172
+msgid "enter comma separated product SKUs"
+msgstr "introduce los SKU de productos separados de coma"
+
+#: editor/partials/query.php:170
+msgid "Select products by SKU"
+msgstr "Seleccionar productos por SKU"
+
+#: editor/partials/query.php:163
+msgid "enter comma separated product IDs"
+msgstr "introduce los IDs de productos separados de coma"
+
+#: editor/partials/query.php:161
+msgid "Select products by ID"
+msgstr "Seleccionar productos por ID"
+
+#: editor/partials/query.php:141
+msgid "Hide out of stock items"
+msgstr "Ocultar artículos agotados"
+
+#: editor/partials/query.php:127
+msgid "Descending"
+msgstr "Descendente"
+
+#: editor/partials/query.php:126
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: editor/partials/query.php:121
+msgid "Initial order"
+msgstr "Orden inicial"
+
+#: editor/partials/query.php:108
+msgid "Custom field to orderby"
+msgstr "Ordenar por campo personalizado"
+
+#: editor/partials/query.php:83
+msgid "Popularity (sales)"
+msgstr "Popularidad (ventas)"
+
+#: editor/partials/query.php:82
+msgid "Price: high to low"
+msgstr "Precio: de mayor a menor"
+
+#: editor/partials/query.php:81
+msgid "Price: low to high "
+msgstr "Precio: Menor a Mayor "
+
+#: editor/partials/query.php:80
+msgid "Average rating"
+msgstr "Puntuación promedio"
+
+#: editor/partials/query.php:78
+msgid "Newness"
+msgstr "Novedad"
+
+#: editor/partials/query.php:77
+msgid "Title"
+msgstr "Título"
+
+#: editor/partials/query.php:72
+msgid "Initial orderby"
+msgstr "Orden inicial"
+
+#: editor/partials/query.php:61
+msgid "Pagination"
+msgstr "Paginación"
+
+#: editor/partials/query.php:53
+msgid "Max products per page"
+msgstr "Máximo de productos por página"
+
+#: editor/partials/query.php:3
+msgid "Select products by category"
+msgstr "Seleccionar productos por categoría"
+
+#: editor/settings.php:53 editor/editor.php:293
+msgid "Found a bug? Got questions / suggestions? Please reach me for support here: "
+msgstr "¿Encontraste un error? ¿Tienes preguntas/ sugerencias? Por favor, ponte en contacto conmigo para recibir soporte aquí: "
+
+#: editor/settings.php:33 editor/editor.php:279
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: editor/editor.php:278
+msgid "Untitled table"
+msgstr "Tabla sin título"
+
+#: editor/editor.php:223
+msgid "Style"
+msgstr "Estilo"
+
+#: editor/editor.php:217
+msgid "Navigation"
+msgstr "Navegación"
+
+#: editor/editor.php:211
+msgid "Columns"
+msgstr "Columnas"
+
+#: editor/editor.php:205
+msgid "Query"
+msgstr "Consulta"
+
+#: editor/editor.php:27 main.php:2455
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: editor/editor.php:24
+msgid "Table name"
+msgstr "Nombre de la tabla"
+
+#: editor/editor.php:10
+msgid "WooCommerce Product Table"
+msgstr "Tabla de productos WooCommerce"

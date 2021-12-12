@@ -1,0 +1,88 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .wayra-coc-admin h2 {
+    font-size: 26px !important;
+    font-weight: 500 !important;
+    margin-bottom: 20px !important;
+}
+
+.wayra-coc-admin h3 {
+    font-size: 1.6em !important;
+}
+.wayra-coc-admin h4{
+    font-size: 1.3em !important;
+    color: #222;
+    padding: 5px 10px;
+    background: #d6d6d6;
+    width: fit-content;
+}
+
+.wayra-coc-inactive {
+    font-size: 0.7em !important;
+    color: #e60a0a;
+}
+
+.wayra-coc-error {
+    border: 2px solid #ea2121a1 !important;
+}
+.wayra-coc-title {
+    font-size: 14px;
+    line-height: 1.7;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    text-align: right;
+}
+
+@media (max-width: 768px) {
+    .wayra-coc-title {
+        position: relative;
+        top: auto;
+        right: auto;
+    }
+}
+
+.wayra-coc-title a {
+    text-decoration: none;
+}
+
+#donate {
+    padding-bottom: 2px;
+    border-bottom: 1px solid #0073aa;
+}
+
+#donate:hover {
+    border-bottom: none;
+}
+
+.wayra-coc-title i {
+    color: #fd4545cc;
+    transition: all .1s;
+}
+
+.wayra-coc-title i:hover {
+    color: red;
+}
+
+#coffee {
+    position: relative;
+    display: block;
+    visibility: hidden;
+    transition: all .6s;
+    bottom: -40px;
+    zoom: 1.5;
+    right: 40px;
+    color: gray;
+}
+
+#donate:hover + #coffee {
+    visibility: visible !important;
+    bottom: 0px;
+    color: #a06d0d;
+}
+.wayra-coc-flex {
+    display: flex;
+    align-items: flex-end;
+}

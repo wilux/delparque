@@ -1,0 +1,399 @@
+# Copyright (C) 2020 Juan Manuel Acebal
+# This file is distributed under the same license as the Click Order Chat plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Click Order Chat 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wayra-click-to-"
+"order-or-chat\n"
+"POT-Creation-Date: 2021-04-04T15:00:10+00:00\n"
+"PO-Revision-Date: 2021-04-04 12:04-0300\n"
+"Last-Translator: \n"
+"Language-Team: Nicola Casas\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: click-order-chat\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Plugin Name of the plugin
+msgid "Wayra - Click to Order or Chat"
+msgstr "Wayra - Clicca su Ordina o Chat"
+
+#. Plugin URI of the plugin
+msgid "https://wayramarketing.com.ar/"
+msgstr "https://wayramarketing.com.ar/"
+
+#. Description of the plugin
+msgid ""
+"A lightweight, easy and fast option to show a <strong>floating WhatsApp "
+"button</strong> and WooCommerce customization to <strong>add \"Ask in "
+"WhatsApp\" button on products, Store and Cart</strong>. You can hide the "
+"default \"Add to Cart\" button. We love simplicity and efficience."
+msgstr ""
+"Un'opzione leggera, facile e veloce per mostrare un <strong>pulsante "
+"WhatsApp galleggiante e</strong> la personalizzazione WooCommerce "
+"<strong>per aggiungere il pulsante \"Chiedi in WhatsApp\" sui prodotti, "
+"Store e Carrello</strong>. È possibile nascondere il pulsante predefinito "
+"\"Aggiungi al carrello\". Amiamo la semplicità e l'efficienza."
+
+#. Author of the plugin
+msgid "Juan Manuel Acebal"
+msgstr "Juan Manuel Acebal"
+
+#. Author URI of the plugin
+msgid "https://wayramarketing.com.ar"
+msgstr "https://wayramarketing.com.ar"
+
+#: admin/class-click-order-chat-admin.php:97
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: admin/partials/click-order-chat-admin-display.php:22
+msgid "This plugin is develop with %s by"
+msgstr "Questo plugin è sviluppato con %s da"
+
+#: admin/partials/click-order-chat-admin-display.php:23
+msgid "If you want to help me to continue develop useful plugins"
+msgstr "Se vuoi aiutarmi a continuare a sviluppare plugin utili"
+
+#: admin/partials/click-order-chat-admin-display.php:23
+msgid "buy me a cup of coffee"
+msgstr "comprami una tazza di caffè"
+
+#: admin/partials/click-order-chat-admin-display.php:55
+msgid ""
+"Hi, i'm interested in: *{{title}}*\n"
+"{{attributes}}\n"
+"Price: {{price}}\n"
+"URL: {{link}}\n"
+"Regards!"
+msgstr ""
+"Ciao, mi interessa: \"{{title}}\"\n"
+"{{attributes}}\n"
+"Prezzo: {{price}}\n"
+"URL: {{link}}\n"
+"saluti!"
+
+#: admin/partials/click-order-chat-admin-display.php:56
+#: admin/partials/click-order-chat-admin-display.php:62
+msgid "Ask in WhatsApp"
+msgstr "Più informazione su WhatsApp"
+
+#: admin/partials/click-order-chat-admin-display.php:60
+msgid ""
+"{{quantity}} x *{{title}}*\n"
+"Price: {{price}}\n"
+"URL: {{link}}"
+msgstr ""
+"{{quantity}} x *{{title}}*\n"
+"Prezzo: {{price}}\n"
+"URL: {{link}}"
+
+#: admin/partials/click-order-chat-admin-display.php:61
+msgid ""
+"Hi, i want to order:\n"
+"{{product_list}}\n"
+"*TOTAL: {{total}}*\n"
+"Thanks!"
+msgstr ""
+"Ciao, voglio ordinare:\n"
+"{{product_list}}\n"
+"*TOTALE: {{total}}*\n"
+"Grazie!"
+
+#: admin/partials/click-order-chat-admin-display.php:70
+msgid "General"
+msgstr "Generale"
+
+#: admin/partials/click-order-chat-admin-display.php:74
+msgid "WhatsApp Number"
+msgstr "Numero WhatsApp"
+
+#: admin/partials/click-order-chat-admin-display.php:76
+msgid "Insert the phone number starting with the country code."
+msgstr ""
+"Inserisci il numero di telefono che inizia con il prefisso internazionale."
+
+#: admin/partials/click-order-chat-admin-display.php:76
+msgid "e.g. 54 for Argentina"
+msgstr "esempio. 39 per l'Italia"
+
+#: admin/partials/click-order-chat-admin-display.php:80
+msgid "Open in new window"
+msgstr "Apri in una nuova finestra"
+
+#: admin/partials/click-order-chat-admin-display.php:82
+msgid "Check this to open WhatsApp link in new window."
+msgstr ""
+"Seleziona questa opzione per aprire il collegamento WhatsApp in una nuova "
+"finestra."
+
+#: admin/partials/click-order-chat-admin-display.php:87
+msgid "Floating Button"
+msgstr "Pulsante fluttuante"
+
+#: admin/partials/click-order-chat-admin-display.php:91
+msgid "Show floating button"
+msgstr "Mostra Pulsante fluttuante"
+
+#: admin/partials/click-order-chat-admin-display.php:93
+msgid "Show WhatsApp floating button on entire site."
+msgstr "Mostra il pulsante fluttuante WhatsApp  in tutto il sito."
+
+#: admin/partials/click-order-chat-admin-display.php:97
+msgid "Button style"
+msgstr "Stile pulsante"
+
+#: admin/partials/click-order-chat-admin-display.php:107
+msgid "Message to send"
+msgstr "Messaggio da inviare"
+
+#: admin/partials/click-order-chat-admin-display.php:109
+msgid "Insert the default message that send when someone click the button."
+msgstr ""
+"Inserisci il messaggio che verrà inviato quando qualcuno fa clic sul "
+"pulsante."
+
+#: admin/partials/click-order-chat-admin-display.php:109
+msgid " e.g. \"Hi, i have a question\""
+msgstr " esempio. \"Ciao, ho una domanda\""
+
+#: admin/partials/click-order-chat-admin-display.php:113
+msgid "Text on button hover"
+msgstr "Testo che appare quando passi il mouse sopra il pulsante"
+
+#: admin/partials/click-order-chat-admin-display.php:115
+msgid "Insert the text that someone see on button hover."
+msgstr ""
+"Inserisci il testo che verrà visualizzato quando si passa con il mouse sul "
+"pulsante."
+
+#: admin/partials/click-order-chat-admin-display.php:115
+msgid "e.g. \"Chat with us\""
+msgstr "esempio. \"Chatta con noi\""
+
+#: admin/partials/click-order-chat-admin-display.php:119
+msgid "Hide button on mobile"
+msgstr "Nascondi il pulsante sui dispositivi mobili"
+
+#: admin/partials/click-order-chat-admin-display.php:121
+msgid "Hide the floating button on mobile."
+msgstr "Nascondi il pulsante fluttuante sui dispositivi mobili."
+
+#: admin/partials/click-order-chat-admin-display.php:126
+msgid "Inactive"
+msgstr "Inattivo"
+
+#: admin/partials/click-order-chat-admin-display.php:128
+msgid ""
+"For simplificate the config we hide the WooCommerce config options because "
+"the plugin is inactive."
+msgstr ""
+"Per semplificare la configurazione, nascondiamo le opzioni di configurazione "
+"di WooCommerce perché il plugin è inattivo."
+
+#: admin/partials/click-order-chat-admin-display.php:133
+msgid "Remove Add to Cart Buttons"
+msgstr "Rimuovi i pulsanti Aggiungi al carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:135
+msgid ""
+"Remove the Woocommerce Add to Cart buttons on entire site to use WhatsApp "
+"buttons."
+msgstr ""
+"Rimuovi i pulsanti Aggiungi al carrello da WooCommerce e da tutto il sito "
+"per utilizzare i pulsanti WhatsApp."
+
+#: admin/partials/click-order-chat-admin-display.php:138
+msgid "Remove button Proceed to Checkout"
+msgstr "Rimuovi il pulsante Checkout"
+
+#: admin/partials/click-order-chat-admin-display.php:140
+msgid ""
+"Remove the Woocommerce Proceed to Checkout button on Cart and mini cart."
+msgstr ""
+"Rimuovi il pulsante Checkout WooCommerce dal carrello e dal mini carrello."
+
+#: admin/partials/click-order-chat-admin-display.php:145
+msgid "Products page and Store"
+msgstr "Pagine di prodotti e negozi"
+
+#: admin/partials/click-order-chat-admin-display.php:149
+msgid "Show button on products"
+msgstr "Mostra pulsante sui prodotti"
+
+#: admin/partials/click-order-chat-admin-display.php:151
+msgid "Show WhatsApp button on products"
+msgstr "Mostra il pulsante WhatsApp sui prodotti"
+
+#: admin/partials/click-order-chat-admin-display.php:155
+msgid "Show button on not purchasable products"
+msgstr "Mostra il pulsante sui prodotti non vendibili"
+
+#: admin/partials/click-order-chat-admin-display.php:157
+msgid "Show WhatsApp button on product without price or out of stock."
+msgstr "Mostra il pulsante WhatsApp sui prodotti che non hanno prezzo o stock."
+
+#: admin/partials/click-order-chat-admin-display.php:161
+msgid "Show button on Store"
+msgstr "Mostra il pulsante nello Store"
+
+#: admin/partials/click-order-chat-admin-display.php:163
+msgid "Show WhatsApp button on store and related products."
+msgstr ""
+"Mostra il pulsante WhatsApp sui prodotti dello Store e sui prodotti "
+"correlati."
+
+#: admin/partials/click-order-chat-admin-display.php:167
+msgid "Product message"
+msgstr "Messaggio del prodotto"
+
+#: admin/partials/click-order-chat-admin-display.php:169
+msgid ""
+"This is the message that recive someone click on product WhatsApp button."
+msgstr ""
+"Questo è il messaggio che riceve qualcuno che fa clic sul pulsante WhatsApp."
+
+#: admin/partials/click-order-chat-admin-display.php:170
+msgid ""
+"You can use {{title}}, {{price}}, {{link}}, {{SKU}} and *word* for bold."
+msgstr ""
+"Puoi utilizzare i tag {{title}}, {{price}}, {{link}}, {{SKU}} e *testo* per "
+"il grassetto."
+
+#: admin/partials/click-order-chat-admin-display.php:171
+#: admin/partials/click-order-chat-admin-display.php:197
+msgid ""
+"{{attributes}} tag show in variable products a new line for each attribute "
+"and their selected value."
+msgstr ""
+"Il tag {{attributes}} mostra nei prodotti variabili una nuova riga per ogni "
+"attributo e il valore selezionato."
+
+#: admin/partials/click-order-chat-admin-display.php:176
+msgid "Product button text"
+msgstr "Testo del pulsante del prodotto"
+
+#: admin/partials/click-order-chat-admin-display.php:178
+msgid "Insert the button text."
+msgstr "Inserisci il testo del pulsante."
+
+#: admin/partials/click-order-chat-admin-display.php:178
+msgid "e.g. \"Ask in WhatsApp\""
+msgstr "esempio. “Più info su WhatsApp”"
+
+#: admin/partials/click-order-chat-admin-display.php:183
+msgid "Cart"
+msgstr "Carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:187
+msgid "Show button on cart page"
+msgstr "Mostra pulsante nel carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:189
+msgid "Show WhatsApp button in Cart to ask for all the cart"
+msgstr ""
+"Mostra il pulsante WhatsApp nel Carrello per consultare l'intero ordine"
+
+#: admin/partials/click-order-chat-admin-display.php:193
+msgid "Cart product message"
+msgstr "Messaggio del prodotto nel carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:195
+msgid ""
+"This message is part of the message that recive someone click on Cart "
+"WhatsApp button."
+msgstr ""
+"Questo messaggio fa parte del messaggio che qualcuno riceve quando fa clic "
+"sul pulsante WhatsApp nel carrello."
+
+#: admin/partials/click-order-chat-admin-display.php:196
+msgid ""
+"You can use {{title}}, {{price}}, {{subtotal}}, {{link}}, {{SKU}} and *word* "
+"for bold."
+msgstr ""
+"Puoi utilizzare i tag {{title}}, {{price}}, {{link}}, {{SKU}} e *testo* per "
+"il grassetto."
+
+#: admin/partials/click-order-chat-admin-display.php:202
+msgid "Cart message"
+msgstr "Messaggio del prodotto nel carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:204
+msgid ""
+"This message the message that recive someone click on Cart WhatsApp button."
+msgstr ""
+"Questo messaggio fa parte del messaggio che qualcuno riceve quando fa clic "
+"sul pulsante WhatsApp nel carrello."
+
+#: admin/partials/click-order-chat-admin-display.php:205
+msgid "You can use {{product_list}}, {{total}} and *word* for bold."
+msgstr ""
+"Puoi utilizzare i tag {{product_list}}, {{total}} e *testo* per grassetto."
+
+#: admin/partials/click-order-chat-admin-display.php:209
+msgid "Cart button text"
+msgstr "Testo del pulsante del prodotto"
+
+#: admin/partials/click-order-chat-admin-display.php:211
+msgid "Insert the text of the the button."
+msgstr "Inserisci il testo del pulsante."
+
+#: admin/partials/click-order-chat-admin-display.php:211
+msgid "e.g. \"Ask for this products on WhatsApp\""
+msgstr "esempio. “Voglio più informazione su questi prodotti tramite WhatsApp”"
+
+#: admin/partials/click-order-chat-admin-display.php:214
+msgid "Clear Cart after click"
+msgstr "Svuota il carrello dopo il clic"
+
+#: admin/partials/click-order-chat-admin-display.php:216
+msgid "Clear the WooCommerce Cart after click on WhatsApp button"
+msgstr ""
+"Svuota il carrello WooCommerce dopo aver fatto clic sul pulsante WhatsApp"
+
+#: admin/partials/click-order-chat-admin-display.php:219
+msgid "Redirect WooCommerce after clear the Cart"
+msgstr "Reindirizza WooCommerce dopo aver cancellato il carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:225
+msgid "Select a page"
+msgstr "Seleziona una pagina"
+
+#: admin/partials/click-order-chat-admin-display.php:234
+msgid "Customize CSS style"
+msgstr "Personalizza gli stili CSS"
+
+#: admin/partials/click-order-chat-admin-display.php:235
+msgid ""
+"If you need to customize any button, we add an empty class in each type of "
+"buttons. You are welcome ;)"
+msgstr ""
+"Se è necessario personalizzare qualsiasi pulsante, aggiungiamo una classe "
+"vuota in ogni tipo di pulsante. Prego ;)"
+
+#: admin/partials/click-order-chat-admin-display.php:239
+msgid "Floating button"
+msgstr "Pulsante fluttuante"
+
+#: admin/partials/click-order-chat-admin-display.php:244
+msgid "Product page button"
+msgstr "Pulsante sulla pagina del prodotto"
+
+#: admin/partials/click-order-chat-admin-display.php:248
+msgid "Store and related products buttons"
+msgstr "Pulsanti nello Store e prodotti correlati"
+
+#: admin/partials/click-order-chat-admin-display.php:252
+msgid "Cart button"
+msgstr "Pulsante nel carrello"
+
+#: admin/partials/click-order-chat-admin-display.php:258
+msgid "Save all changes"
+msgstr "Salva tutte le modifiche"
+
+#: public/class-click-order-chat-public.php:146
+msgid "Please choose the product options before consulting."
+msgstr "Si prega di scegliere le opzioni del prodotto prima di consultare."

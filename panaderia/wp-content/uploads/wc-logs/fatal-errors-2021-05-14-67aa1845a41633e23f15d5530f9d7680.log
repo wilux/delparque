@@ -1,0 +1,22 @@
+2021-05-14T20:27:15+00:00 CRITICAL Uncaught Error: Call to undefined function pagelayer_livelink() in /home/delpa23/public_html/heladeria/wp-content/themes/popularfx/inc/customizer.php:295
+Stack trace:
+#0 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(292): popularfx_customize_register(Object(WP_Customize_Manager))
+#1 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 /home/delpa23/public_html/heladeria/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/delpa23/public_html/heladeria/wp-includes/class-wp-customize-manager.php(933): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(292): WP_Customize_Manager->wp_loaded('')
+#5 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 /home/delpa23/public_html/heladeria/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#7 /home/delpa23/public_html/heladeria/wp-settings.p en /home/delpa23/public_html/heladeria/wp-content/themes/popularfx/inc/customizer.php en la línea 295
+
+2021-05-14T20:27:23+00:00 CRITICAL Uncaught Error: Call to undefined function pagelayer_livelink() in /home/delpa23/public_html/heladeria/wp-content/themes/popularfx/inc/customizer.php:295
+Stack trace:
+#0 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(292): popularfx_customize_register(Object(WP_Customize_Manager))
+#1 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#2 /home/delpa23/public_html/heladeria/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/delpa23/public_html/heladeria/wp-includes/class-wp-customize-manager.php(933): do_action('customize_regis...', Object(WP_Customize_Manager))
+#4 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(292): WP_Customize_Manager->wp_loaded('')
+#5 /home/delpa23/public_html/heladeria/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 /home/delpa23/public_html/heladeria/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#7 /home/delpa23/public_html/heladeria/wp-settings.p en /home/delpa23/public_html/heladeria/wp-content/themes/popularfx/inc/customizer.php en la línea 295
+
